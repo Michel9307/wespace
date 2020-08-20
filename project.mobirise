@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "WESPACE",
-    "currentPage": "WESPACE.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -2981,7 +2981,7 @@
         }
       ]
     },
-    "WESPACE.html": {
+    "index.html": {
       "settings": {
         "main": true,
         "title": "InteriorDesignWespace",
